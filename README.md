@@ -174,7 +174,10 @@ citation("rsat")[1]
 
 To cite the package:
 
-U. Pérez-Goya, M. Montesino-SanMartin, A F Militino, M D Ugarte (2021). rsat: Dealing with Multiplatform Satellite Images from Landsat, MODIS, and Sentinel. R package version 0.1.16. <https://github.com/ropensci/rsat>.
+U Pérez-Goya, M Montesino-SanMartin, A F Militino, M D Ugarte (2024).
+  rsat: Dealing with Multiplatform Satellite Images from Landsat, MODIS,
+  and Sentinel. R package version 0.1.21.
+  https://CRAN.R-project.org/package=rsat.
 
 ## Acknowledgements
 
