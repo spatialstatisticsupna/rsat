@@ -182,3 +182,5 @@ U Pérez-Goya, M Montesino-SanMartin, A F Militino, M D Ugarte (2024).
 ## Acknowledgements
 
 This work has been financed by projects MTM2017-82553-R (AEI/FEDER, UE) and PID2020-113125RB-I00/MCIN/AEI/10.13039/501100011033.
+
+![plot](https://github.com/spatialstatisticsupna/bigDM/blob/master/micin-aei.jpg)
